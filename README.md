@@ -1,6 +1,7 @@
 # Tauri + Vanilla
 
 This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+https://tauri.app/v1/guides/getting-started/setup/html-css-js
 
 ## Recommended IDE Setup
 
